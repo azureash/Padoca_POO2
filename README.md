@@ -24,15 +24,23 @@ Requisitos:
 7. Finalizar Compra
 
 Classes:
+
 1. Classe Produto:
+
    Insere Produto //Da entrada de produtos no sistema até o usuário decidir parar
+   
    Lista Produto //Lista o estoque de produtos cadastrados
 
 2. Classe Compra:
+
    Comprar //Usuário d entrada em cada produto sendo comprado
+   
    Ver Carrinho //Imprime na tela os produtos comprados
+   
    Finalizar Compra //Imprime em um arquivo .txt o subtotal da compra
 
 3. Classe Estoque:
+
    Atualizar Estoque //Atualiza o estoque listado subtraindo dos valores comprados
+   
    Imprimir Estoque //Imprime em um arquivo .txt 
