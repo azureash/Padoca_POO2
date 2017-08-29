@@ -4,8 +4,11 @@ Sistema de controle de padaria para aula de POO 2
 
 Membros:
 Diego de Almeida Parreira - RA 166558
+
 Marina Percebão - RA 174164 
+
 Vitor Eduardo Lopes Paulella - RA 140976
+
 Vinicius Rocha Fernandes Inacio - RA 149046
 
 Objetivo:
