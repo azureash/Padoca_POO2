@@ -35,7 +35,7 @@ Classes:
 
 2. Classe Compra:
 
-   id_compra, qtd_compra, lista_carrinho, imprime_compra.
+   id_compra, qtd_compra, lista_carrinho, imprime_compra, total_carrinho.
 
    Comprar //Usuário da entrada em cada produto sendo comprado
    
