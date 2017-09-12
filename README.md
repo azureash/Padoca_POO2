@@ -26,6 +26,8 @@ Requisitos:
 Classes:
 
 1. Classe Produto:
+   
+   id_prod, nome_prod, qtd_prod, lista_prod.
 
    Insere Produto //Da entrada de produtos no sistema até o usuário decidir parar
    
@@ -33,13 +35,17 @@ Classes:
 
 2. Classe Compra:
 
-   Comprar //Usuário d entrada em cada produto sendo comprado
+   id_compra, qtd_compra, lista_carrinho, imprime_compra.
+
+   Comprar //Usuário da entrada em cada produto sendo comprado
    
    Ver Carrinho //Imprime na tela os produtos comprados
    
    Finalizar Compra //Imprime em um arquivo .txt o subtotal da compra
 
 3. Classe Estoque:
+
+   imprime_estoque, atualiza_estoque
 
    Atualizar Estoque //Atualiza o estoque listado subtraindo dos valores comprados
    
