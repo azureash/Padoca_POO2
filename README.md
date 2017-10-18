@@ -5,6 +5,8 @@ Sistema de controle de padaria para aula de POO 2
 Membros:
 Marina Percebão - RA 174164 
 
+Raphael Kenji Morimoto - RA 158370
+
 Tomas Moreira D'Alessandro - RA 177754 (Turma A)
 
 Vitor Eduardo Lopes Paulella - RA 140976
